@@ -1,0 +1,36 @@
+{
+	"1.2" : [
+		{"cn" : "nǐ",
+		"ton" : 3},
+		{"cn" : "hǎo",
+		"ton" : 3},
+		{"cn" : "míng",
+        "ton" : 2},
+        {"cn" : "tiān",
+        "ton" : 1},
+        {"cn" : "jiàn!",
+        "ton" : 4},
+	],
+	"1.4" : [
+		{"de" : "Wie heißt du (mit Nachnamen)?",
+		"cn" : "Nǐ xìng shénme?",},
+		{"de" : "Mein (Nach)Name ist Liu.",
+        "cn" : "Wǒ xìng Liú.",},
+		{"de" : "Wie heißt du?",
+        "cn" : "Nǐ jiào shénme?",},
+        {"de" : "Ich heiße Karl.",
+        "cn" : "Wǒ jiào Karl.",},
+        {"de" : "Wie alt bist du?",
+        "cn" : "Nǐ duō dà le?",},
+        {"de" : "Ich bin 45 Jahre alt.",
+        "cn" : "Wǒ 45 suì.",},
+        {"de" : "Woher kommst du?",
+        "cn" : "Nǐ shì shénme dìfang rén?",},
+        {"de" : "Und du?",
+        "cn" : "Nǐ ne?",},
+        {"de" : "Deutscher",
+        "cn" : "déguórén",},
+        {"de" : "Ich bin Chinese.",
+        "cn" : "Wǒ shì zhōngguórén.",}
+	]
+}

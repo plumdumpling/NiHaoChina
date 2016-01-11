@@ -1,0 +1,169 @@
+{
+	"1.1" : [
+		{"sentence" : "+$++$+. Nǐ hǎo ma?",
+		"gaps" : ["Nǐ", "hǎo"],
+		"words" : [
+					["Nǐ", "Hǎo", "Ma"],
+					["nǐ", "hǎo", "ma"]
+				]},
+		{"sentence" : "Wǒ +$+ hǎo",
+		"gaps" : ["hěn"],
+		"words" : [
+					["yě","hěn","nǐ"]
+				]},
+		{"sentence" : "+$+ ne?",
+		"gaps" : ["Nǐ"],
+		"words" : [
+					["Nǐ","yě","ne"]
+				]},
+		{"sentence" : "Wǒ +$+ hěn hǎo",
+		"gaps" : ["yě"],
+		"words" : [
+					["yě","nǐ","wǒ"]
+				]},
+		{"sentence" : "Wǒ bù hǎo. Nǐ +$+?",
+		"gaps" : ["ne"],
+		"words" : [
+					["bù","ne","wǒ"]
+				]},
+		{"sentence" : "Wǒ +$+ bù hǎo",
+		"gaps" : ["yě"],
+		"words" : [
+					["yě","bù","hǎo"]
+				]}
+	],
+	"1.4" : [
+		{"sentence" : "yī jiā yī shì +$+.",
+		"gaps" : ["èr"],
+		"words" : [
+					["èr","sān","wǔ"]
+				]},
+		{"sentence" : "yī jiā èr shì +$+.",
+		"gaps" : ["sān"],
+		"words" : [
+					["liù","sān","wǔ"]
+				]},
+		{"sentence" : "sān jiā +$+ shì sì.",
+		"gaps" : ["yī"],
+		"words" : [
+					["sān","yī","liù"]
+				]},
+		{"sentence" : "+$+ jiā +$+ shì liù.",
+		"gaps" : ["èr","sì"],
+		"words" : [
+					["qī","èr","bā"],
+					["liù","sì","wǔ"]
+				]},
+		{"sentence" : "yī jiā sì shì +$+.",
+		"gaps" : ["wǔ"],
+		"words" : [
+					["liù","sān","wǔ"]
+				]},
+		{"sentence" : "sān jiā +$+ shì shí.",
+		"gaps" : ["qī"],
+		"words" : [
+					["sì","qī","wǔ"]
+				]},
+		{"sentence" : "+$+ jiā yī shì jiǔ.",
+		"gaps" : ["bā"],
+		"words" : [
+					["wǔ","qī","bā"]
+				]},
+		{"sentence" : "bā jiā yī shì +$+.",
+		"gaps" : ["jiǔ"],
+		"words" : [
+					["wǔ","jiǔ","sān"]
+				]}
+	],
+	"1.7" : [
+		{"sentence" : "huáng jiā lán shì +$+.",
+		"gaps" : ["lǜ"],
+		"words" : [
+					["lǜ","hóng","chéng"]
+				]},
+		{"sentence" : "+$+ jiā lán shì lǜ.",
+		"gaps" : ["huáng"],
+		"words" : [
+					["hóng","huáng","lán"]
+				]},
+		{"sentence" : "+$+ jiā huáng shì lǜ.",
+		"gaps" : ["lán"],
+		"words" : [
+					["lán","hóng","chéng"]
+				]},
+		{"sentence" : "+$+ jiā huáng shì chéng.",
+		"gaps" : ["hóng"],
+		"words" : [
+					["lǜ","huáng","lán"]
+				]},
+		{"sentence" : "Schwarz = +$+",
+		"gaps" : ["hēi"],
+		"words" : [
+					["bái","hēi","chéng"]
+				]},
+		{"sentence" : "Weiss = +$+",
+		"gaps" : ["bái"],
+		"words" : [
+					["hēi","huáng","bái"]
+				]},
+	],
+	"2.1" : [
+		{"sentence" : "Nǐ hǎo! Wǒ xiǎng yào yì jiān +$+.",
+		"gaps" : ["dān rén fáng"],
+		"words" : [
+					["dān rén fáng","rénmínbì","duō shăo"]
+				]},
+		{"sentence" : "Nǐ hǎo! Nín yǒu +$+ má?",
+		"gaps" : ["yù dìng"],
+		"words" : [
+					["yù dìng","rénmínbì","duō shăo"]
+				]},
+		{"sentence" : "Mĕi wăn +$+ qián?",
+		"gaps" : ["duō shăo"],
+		"words" : [
+					["rénmínbì","duō shăo","yù dìng"]
+				]},
+		{"sentence" : "Zhù sù jiā zăo cān +$+ qián?",
+		"gaps" : ["duō shăo"],
+		"words" : [
+					["rénmínbì","duō shăo","yù dìng"]
+				]},
+		{"sentence" : "Duō shăo qián? Liù bǎi kuài +$+",
+		"gaps" : ["rénmínbì"],
+		"words" : [
+					["rénmínbì","duō shăo","yù dìng"]
+				]}
+	],
+	"3.1" : [
+		{"sentence" : "Nín hē shénme? Wǒ hē yī bēi +$+",
+		"gaps" : ["píjiǔ"],
+		"words" : [
+					["píjiǔ","càidān","kǎoyā"]
+				]},
+		{"sentence" : "Nín hē shénme? Wǒ hē yī bēi +$+",
+		"gaps" : ["shuǐ"],
+		"words" : [
+					["shuǐ","càidān","kǎoyā"]
+				]},
+		{"sentence" : "Nín chī diǎnr shénme? Wǒ chī +$+",
+		"gaps" : ["tāng"],
+		"words" : [
+					["càidān","tāng","dāochā"]
+				]},
+		{"sentence" : "Nín chī diǎnr shénme? Wǒ chī +$+",
+		"gaps" : ["kǎoyā"],
+		"words" : [
+					["càidān","kǎoyā","dāochā"]
+				]},
+		{"sentence" : "Yào +$+ ma?",
+		"gaps" : ["càidān"],
+		"words" : [
+					["càidān","shénme","qǐng"]
+				]},
+		{"sentence" : "Qǐng ná +$+",
+		"gaps" : ["dāochā"],
+		"words" : [
+					["dāochā","nǐ","bù"]
+				]}
+	]
+}

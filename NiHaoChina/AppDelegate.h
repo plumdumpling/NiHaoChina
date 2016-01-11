@@ -12,4 +12,11 @@
 
 @property (strong, nonatomic) UIWindow *window;
 
+@property (strong, nonatomic) id<UIApplicationDelegate>delegate;
+@property (nonatomic, retain) NSString *userName;
+@property (nonatomic, retain) NSDictionary *chapters;
+
+- (void)saveData;
+- (void)deleteData;
+
 @end

@@ -1,0 +1,192 @@
+{
+    "characters" : {
+        "1.1A" : "karl",
+        "1.1B" : "liu",
+        
+        "1.5A" : "karl",
+        "1.5B" : "liu",
+        
+        "2.1A" : "karl",
+        "2.1B" : "hotel",
+        
+        "3.1A" : "karl",
+        "3.1B" : "restaurant",
+        
+        "3.2A" : "karl",
+        "3.2B" : "restaurant"
+    },
+	"1.1" : [
+             {
+             "false" : ["Zài jiàn.", "Míngtiān jiàn."],
+             "correct" : "Nǐ hǎo.",
+             "answer" :	"Nǐ hǎo. Nǐ hǎo ma?",
+             "image" : "1"
+             },
+             {
+             "false" : ["Zài jiàn.", "Nǐ ne?"],
+             "correct" : "Wǒ hěn hǎo.",
+             "answer" :	"",
+             "image" : "1"
+             },
+             {
+             "false" : ["Zài jiàn.", "Xiàng yòu guǎi."],
+             "correct" : "Nǐ ne?",
+             "answer" :	"Wǒ yě hěn hǎo. Míngtiān jiàn.",
+             "image" : "1"
+             },
+             {
+             "false" : ["Wǒ yě bù hǎo.", "Nǐ hǎo."],
+             "correct" : "Zài jiàn.",
+             "answer" :	"",
+             "image" : "1"
+             }
+	],
+	"1.5" : [
+             {
+             "false" : [],
+             "correct" : "",
+             "answer" : "Yī jiā yī shì?",
+             "image" : "1"
+             },
+             
+             {
+             "false" : ["Nǐ gàn shénme?", "Nǐ hǎo."],
+             "correct" : "èr",
+             "answer" : "Èr jiā yī shì?",
+             "image" : "1"
+             },
+             
+             {
+             "false" : ["yī", "bā"],
+             "correct" : "sān",
+             "answer" : "Sān jiā yī shì?",
+             "image" : "1"
+             },
+             
+             {
+             "false" : ["bā","jiǔ"],
+             "correct" : "sì",
+             "answer" : "Sì jiā yī shì?",
+             "image" : "1"
+             },
+             
+             {
+             "false" : ["shí","sān"],
+             "correct" : "wǔ",
+             "answer" : "Wǔ jiā sì shì?",
+             "image" : "1"
+             },
+             
+             {
+             "false" : ["wǔ","líng"],
+             "correct" : "jiǔ",
+             "answer" : "Hěn hǎo! Sì jiā shí shì...",
+             "image" : "1"
+             },
+             
+             {
+             "false" : ["Sì jiā shí shì sì shí.", "Sì jiā shí shì shì sì."],
+             "correct" : "Sì jiā shí shì shí sì.",
+             "answer" : "Shí sì jiā èr shí èr shì...",
+             "image" : "1"
+             },
+             
+             {
+             "false" : ["Shí sì jiā èr shí èr shì bā shí sān.", "Shí sì jiā èr shí èr shì sān shí bā."],
+             "correct" : "Shí sì jiā èr shí èr shì sān shí liù.",
+             "answer" : "Shí wǔ jiā jiǔ shí shì...",
+             "image" : "1"
+             },
+             
+             {
+             "false" : ["Shí wǔ jiā jiǔ shí shì yī bǎi wǔ.", "Shí wǔ jiā jiǔ shí shì yī bǎi èr." ],
+             "correct" : "Shí wǔ jiā jiǔ shí shì yī bǎi líng wǔ.",
+             "answer" : "Hěn hǎo!",
+             "image" : "1"
+             }
+
+	],
+      "2.1" : [
+               {
+               "false" : [],
+               "correct" : "",
+               "answer" : "Nǐhǎo!",
+               "image" : "1"
+               },
+               {
+               "false" : ["Wǒ yě hěn hǎo.", "Míngtiān jiàn."],
+               "correct" : "Nǐhǎo! Wǒ xiǎng yào yì jiān dān rén fáng.",
+               "answer" : "Nín yǒu yù dìng má?",
+               "image" : "1"
+               },
+               
+               {
+               "false" : ["Wǒ xiǎng yào huáng sè de.", "Wǒ zuò chéng shì yóulǎn de dǎyóu."],
+               "correct" : "Méi yǒu! Mĕi wăn duō shăo qián?",
+               "answer" : "Qī bǎi rénmínbì, hán cān.",
+               "image" : "1"
+               },
+               
+               {
+               "false" : ["Wǒ fù xiàn jīn.", "Lái yí fèn kǎoyā."],
+               "correct" : "Wŏ yào zhù yí ge xīng qī.",
+               "answer" : "Hěn hǎo.",
+               "image" : "1"
+               }
+      ],
+      "3.1" : [
+               {
+               "false" : [],
+               "correct" : "",
+               "answer" : "Nín hē shénme?",
+               "image" : "1"
+               },
+               {
+               "false" : ["Wǒ fù xiàn jīn.", "Wǒ yě hěn hǎo."],
+               "correct" : "Yì bēi píjiǔ, yì bēi shuǐ.",
+               "answer" : "Nín chī diǎnr shénme?",
+               "image" : "1"
+               },
+               {
+               "false" : ["Wǒ xiǎng yào yì jiān dān rén fáng.", "Wǒ shì déguó rén."],
+               "correct" : "Yǒu càidān ma?",
+               "answer" : "Zhè shì càidān.",
+               "image" : "1"
+               },
+               {
+               "false" : ["Qǐng ná dāochā.", "Liù bǎi kuài rénmínbì."],
+               "correct" : "Lái yí fèn kǎoyā.",
+               "answer" : "Nín yòng kuàizi háishì dāochā?",
+               "image" : "1"
+               },
+               {
+               "false" : ["Wǒ xiǎng yào huáng sè de.", "Jīntiān bù xìng, míngtiān kě yǐ."],
+               "correct" : "Qǐng ná dāochā.",
+               "answer" : "",
+               "image" : "1"
+               }
+      ],
+      "3.2" : [
+               {
+               "false" : ["Bù tài hǎo.","Wǒ men shǔ."],
+               "correct" : "Jjiézhàng.",
+               "answer" : "Nín fù xiàn jīn háishì xìn yòng kǎ?",
+               "image" : "1"
+               },
+               {
+               "false1" : ["Sān!","Nǐ gàn shénme?"],
+               "correct" : "Wǒ fù xiàn jīn.",
+               "answer" : "Hěn hǎo.",
+               "image" : "1"
+               },
+               {
+               "false1" : ["Qǐng ná dāochā","Nín yǒu yù dìng má?"],
+               "correct" : "Duō shǎo qián?",
+               "answer" : "Wǔ shí kuài rénmínbì.",
+               "image" : "1"
+               },
+
+      ]
+}
+
+	
